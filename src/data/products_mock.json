@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Rel\u00f3gio Elegante",
+      "price": 50.99,
+      "image": "https://cdn.dribbble.com/userupload/15749129/file/original-abadf32d5221846b707e08e0c19d90ac.png?resize=400x300&vertical=center"
+    },
+    {
+      "id": 2,
+      "name": "C\u00e2mera Vintage",
+      "price": 85.5,
+      "image": "https://cdn.dribbble.com/userupload/9114607/file/original-dbf7ef9f51ca940ae9ef149ef1c227c4.jpg?resize=450x338&vertical=center"
+    },
+    {
+      "id": 3,
+      "name": "Fones de Ouvido",
+      "price": 35.99,
+      "image": "https://cdn.dribbble.com/userupload/14250727/file/original-f92ae6e217af1fdd715c16a90e0a5f3e.png?crop=0x0-2800x2100&resize=450x338&vertical=center"
+    },
+    {
+      "id": 4,
+      "name": "T\u00eanis de Corrida",
+      "price": 120.0,
+      "image": "https://mediacdn.wtennis.com.br/catalog/product/cache/2/image/400x400/9df78eab33525d08d6e5fb8d27136e95/o/l/olympikus_corre_3_ag_13_1027361_31316_261_34015_3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Smartphone",
+      "price": 299.99,
+      "image": "https://cdn.dribbble.com/userupload/7461585/file/original-b1ca7f58d25f9800683feec562b88dcb.jpg?crop=70x0-1110x780&resize=450x338&vertical=center"
+    },
+    {
+      "id": 6,
+      "name": "Livro de Aventura",
+      "price": 19.99,
+      "image": "https://cdn.dribbble.com/userupload/11999821/file/original-7a83d0dbee6b4d7bdd2d068e31e4d254.png?resize=450x338&vertical=center"
+    }
+  ]
